@@ -49,8 +49,7 @@ Healthcare facilities often struggle with phone queues and scheduling bottleneck
 
 ## Try It Out
 
-The bot is live here: [MediBuddy Web Client](https://platform.kore.ai/xo-webclient/5be843e55be34497bbe49907b268a47bda82735fd7244b6492916612a30d3d26st99?lang=en)
+The bot is live here: https://platform.kore.ai/xo-webclient/5be843e55be34497bbe49907b268a47bda82735fd7244b6492916612a30d3d26st99?lang=en
 
----
 
 **Note:** I built this on a trial account, so some advanced features like bot export weren't available, but all core functionality is working as designed.
